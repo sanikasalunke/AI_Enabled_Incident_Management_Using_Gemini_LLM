@@ -1,0 +1,7 @@
+
+2025-09-18 02:10:21 INFO Starting server on port 8080
+2025-09-18 02:10:25 WARNING High memory usage detected: 85%
+2025-09-18 02:10:27 ERROR Database connection failed
+2025-09-18 02:10:31 INFO Retrying database connection
+2025-09-18 02:10:35 ERROR Database connection failed
+2025-09-18 02:10:40 CRITICAL Service unavailable due to repeated DB failures
